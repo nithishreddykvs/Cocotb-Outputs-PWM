@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1744887215" />
+    <testcase name="pwm_test" classname="test_pwm" file="/home/edutech/intern-nk/PWM_switch/sim/test_pwm.py" lineno="4" time="0.0015108585357666016" sim_time_ns="250.001" ratio_time="165469.49570837937" />
+  </testsuite>
+</testsuites>
